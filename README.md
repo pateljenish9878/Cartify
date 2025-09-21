@@ -14,7 +14,7 @@ A modern, responsive e-commerce shopping cart application built with React, feat
 
 ## 🚀 Live Demo
 
-Check out the live project: [Cartify Demo](https://your-live-demo-url.com)
+Check out the live project: [Cartify Demo](https://cartify-dusky.vercel.app/)
 
 ## 🛠️ Built With
 
