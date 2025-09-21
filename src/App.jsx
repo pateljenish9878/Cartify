@@ -31,7 +31,7 @@ function App() {
           <div className="container">
             <div className="row">
               <div className="col-md-6">
-                <h5 className="fw-bold mb-3" style={{ color: 'var(--brand-accent)' }}>ShopCart</h5>
+                <h5 className="fw-bold mb-3" style={{ color: 'var(--brand-accent)' }}>Cartify</h5>
                 <p className="text-muted mb-3">
                   Your one-stop destination for premium products with exceptional quality and service.
                 </p>
