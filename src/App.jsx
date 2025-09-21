@@ -70,7 +70,7 @@ function App() {
             <hr className="my-4" style={{ borderColor: 'var(--secondary-600)' }} />
             <div className="text-center">
               <p className="text-muted mb-0">
-                © 2025 ShopCart. Built with React & Bootstrap. All rights reserved.
+                © 2025 Cartify. Built with React & Bootstrap. All rights reserved.
               </p>
             </div>
           </div>
