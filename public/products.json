@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 15 Pro",
+    "price": 999.99,
+    "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?w=400&h=300&fit=crop",
+    "category": "Phone",
+    "brand": "Apple"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy S24",
+    "price": 899.99,
+    "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=400&h=300&fit=crop",
+    "category": "Phone",
+    "brand": "Samsung"
+  },
+  {
+    "id": 3,
+    "name": "iPad Air 5th Gen",
+    "price": 599.99,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=400&h=300&fit=crop",
+    "category": "Tablet",
+    "brand": "Apple"
+  },
+  {
+    "id": 4,
+    "name": "Samsung Galaxy Tab S9",
+    "price": 799.99,
+    "image": "https://images.unsplash.com/photo-1561154464-82e9adf32764?w=400&h=300&fit=crop",
+    "category": "Tablet",
+    "brand": "Samsung"
+  },
+  {
+    "id": 5,
+    "name": "MacBook Pro 14-inch M3",
+    "price": 1999.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=400&h=300&fit=crop",
+    "category": "Laptop",
+    "brand": "Apple"
+  },
+  {
+    "id": 6,
+    "name": "Dell XPS 13 Plus",
+    "price": 1299.99,
+    "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=400&h=300&fit=crop",
+    "category": "Laptop",
+    "brand": "Dell"
+  },
+  {
+    "id": 7,
+    "name": "ASUS ROG Zephyrus G14",
+    "price": 1599.99,
+    "image": "https://images.unsplash.com/photo-1603302576837-37561b2e2302?w=400&h=300&fit=crop",
+    "category": "Laptop",
+    "brand": "ASUS"
+  },
+  {
+    "id": 8,
+    "name": "AirPods Pro 2nd Gen",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1606220945770-b5b6c2c55bf1?w=400&h=300&fit=crop",
+    "category": "Accessories",
+    "brand": "Apple"
+  },
+  {
+    "id": 9,
+    "name": "Sony WH-1000XM5 Headphones",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+    "category": "Accessories",
+    "brand": "Sony"
+  },
+  {
+    "id": 10,
+    "name": "Apple Watch Series 9",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=400&h=300&fit=crop",
+    "category": "Accessories",
+    "brand": "Apple"
+  },
+  {
+    "id": 11,
+    "name": "JBL Charge 5 Speaker",
+    "price": 179.99,
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=400&h=300&fit=crop",
+    "category": "Accessories",
+    "brand": "JBL"
+  },
+  {
+    "id": 12,
+    "name": "Logitech MX Master 3S Mouse",
+    "price": 99.99,
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=400&h=300&fit=crop",
+    "category": "Accessories",
+    "brand": "Logitech"
+  },
+  {
+    "id": 13,
+    "name": "Nintendo Switch OLED",
+    "price": 349.99,
+    "image": "https://images.unsplash.com/photo-1606144042614-b2417e99c4e3?w=400&h=300&fit=crop",
+    "category": "Gaming",
+    "brand": "Nintendo"
+  },
+  {
+    "id": 14,
+    "name": "PlayStation 5",
+    "price": 499.99,
+    "image": "https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=400&h=300&fit=crop",
+    "category": "Gaming",
+    "brand": "Sony"
+  },
+  {
+    "id": 15,
+    "name": "Xbox Series X",
+    "price": 499.99,
+    "image": "https://images.unsplash.com/photo-1621259182978-fbf93132d53d?w=400&h=300&fit=crop",
+    "category": "Gaming",
+    "brand": "Microsoft"
+  },
+  {
+    "id": 16,
+    "name": "Canon EOS R6 Mark II",
+    "price": 2499.99,
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
+    "category": "Camera",
+    "brand": "Canon"
+  },
+  {
+    "id": 17,
+    "name": "Sony A7 IV",
+    "price": 2498.99,
+    "image": "https://images.unsplash.com/photo-1502920917128-1aa500764cbd?w=400&h=300&fit=crop",
+    "category": "Camera",
+    "brand": "Sony"
+  },
+  {
+    "id": 18,
+    "name": "DJI Mini 3 Pro Drone",
+    "price": 759.99,
+    "image": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=400&h=300&fit=crop",
+    "category": "Camera",
+    "brand": "DJI"
+  },
+  {
+    "id": 19,
+    "name": "GoPro Hero 12 Black",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1551698618-1dfe5d97d256?w=400&h=300&fit=crop",
+    "category": "Camera",
+    "brand": "GoPro"
+  },
+  {
+    "id": 20,
+    "name": "Bose QuietComfort 45",
+    "price": 329.99,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=400&h=300&fit=crop",
+    "category": "Audio",
+    "brand": "Bose"
+  }
+]
